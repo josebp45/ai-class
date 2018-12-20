@@ -16,7 +16,13 @@ public class TestMain {
 		System.out.println("수정수정!!");
 		System.out.println("edjlsdkfj");
 		System.out.println("a");
-
+		System.out.println("a");
+		System.out.println("a");
+		System.out.println("a");
+		System.out.println("a");
+		System.out.println("a");
+		System.out.println("a");
+		
 	}
 
 }
