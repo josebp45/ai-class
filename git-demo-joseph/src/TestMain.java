@@ -8,6 +8,7 @@ public class TestMain {
 		System.out.println("ㅋㅋsdfsdfㅋ");
 		System.out.println("ㅋㅋsdfsdfㅋ");
 		System.out.println("edjlsdkfj");
+		System.out.println("a");
 	}
 
 }
